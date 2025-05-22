@@ -92,7 +92,3 @@ This project is open-source and free to use. Feel free to contribute or modify a
 ### 💡 Author
 
 Built with ❤️ in C++ for task management enthusiasts.
-
----
-
-Copy-paste this into your repo, and you’re good to go! 🚀
